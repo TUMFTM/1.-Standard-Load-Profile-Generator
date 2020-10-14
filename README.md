@@ -9,7 +9,6 @@ This is a simple python module for generating standard load profiles on the basi
 3. Use function main.get(...) (see app.py for some examples) in order to get the desired standard load profile
 
 ## Running the module
-Explain how to run the code
   
 ```
 example_slp_df = main.get(
